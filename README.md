@@ -10,3 +10,4 @@ Introducing our cutting-edge Medical Landing Page WordPress Plugin Theme, develo
 **Section Description**: Discover our prestigious medical institution's history, mission, and dedicated staff of professionals.
 **Testimonials**: Read about the wonderful experiences provided by our satisfied patients, which attest to the high quality of our healthcare services.
 
+<img src="https://i.ibb.co/jvRCtPB/screenshot.png" alt="Preview of Medical Landing Page Theme for Wordpress " border="0"></a>
